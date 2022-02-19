@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>938447492529-a7rutvhjp86dpidqkal8gccpohaguma7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.938447492529-a7rutvhjp86dpidqkal8gccpohaguma7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA7n4Rnx6yBwDk9GKHc2Kb4lDRm4steb9s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>938447492529</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Gagulik.Messeger</string>
+	<key>PROJECT_ID</key>
+	<string>messanger-a2d58</string>
+	<key>STORAGE_BUCKET</key>
+	<string>messanger-a2d58.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:938447492529:ios:c2bbc53f45323e650ad990</string>
+</dict>
+</plist>
